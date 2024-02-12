@@ -1,0 +1,20 @@
+#menu {
+	display: flex;
+}
+#menu a {
+	font: 17px Arial;
+
+	text-decoration: none;
+	color: white;
+
+	box-sizing: border-box;
+	margin-right: 5px;
+	padding: 10px 25px;
+
+	border: 3px solid green;
+	background-color: green;
+}
+#menu a:hover, #menu a.act {
+	color: green;
+	background-color: white;
+}

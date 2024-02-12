@@ -1,0 +1,39 @@
+
+#wrapper {
+	width: 700px;
+	margin: 0 auto;
+}
+#wrapper h1 {
+	font: 30px "Boolman Old Sryle";
+	text-align: center;
+
+}
+#wrapper a {
+
+	text-decoration: none;
+	color: blue;
+
+
+}
+#wrapper a:hover {
+
+	text-decoration: underline;
+}
+
+#wrapper div {
+	border: 1px solid grey;
+	margin-bottom: 20px;
+
+	padding: 20px;
+}
+
+#wrapper p {
+	margin: 10px 0;
+	text-align: justify;
+}
+
+#wrapper p.more {
+	padding-right: 20px;
+	text-align: right;
+
+}

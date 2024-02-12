@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+body, p, h1, h2, ul, ol {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body {
+    font-family: Tiom;
+}
+
+.wrapper {
+    margin-bottom: 30px;
+}
+
+.center {
+    padding: 10px;
+    margin: 0 auto;
+    width: 860px;
+
+}
+
+
+
+#footer {
+    padding-top: 100px;
+    background: orange;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+
+
+.wrapper li {
+    list-style-position: inside;
+}
+
+#header {
+    background:  red;
+    color: white;
+}
+#header h1 {
+    font-size: 36px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+#header p {
+    font-size: 22px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#serv {
+    background-color: white;
+}    
+
+
+
+.wrapper h2 {
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.wrapper p, .wrapper li {
+    margin-bottom: 10px;
+    text-align: justify;
+    font-size: 16px;
+}
+
+
+#contacts {
+    background-color: red;
+    color: white;
+}
+#contacts p {
+    text-align: center;
+}
+
+#company {
+    background-color: white;
+}

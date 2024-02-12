@@ -1,0 +1,20 @@
+#menu {
+	display: flex;
+	flex-direction: column;
+	width: 300px;
+}
+#menu a {
+	color: white;
+	border: 3px solid green;
+	background-color: green;
+	margin-bottom: 10px;
+	padding: 15px 25px;
+	font: 15px Arial;
+	text-decoration: none;
+
+}
+#menu a:hover, #menu a.act {
+	color: green;
+	background-color: white;
+}
+

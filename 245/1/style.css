@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    font: 15px Arial;
+}
+
+
+
+#wraper {
+    width: 1200px;
+    margin: 30px auto;
+    border: 1px solid black;
+}
+#header {
+    height: 250px;
+    padding: 20px;
+    border: 1px solid black;
+}
+#contaner {
+    display: flex;
+}
+#content {
+    width: 860px;
+    height: 900px;
+    padding: 20px;
+
+    border: 1px solid black;
+}
+#sidebar2 {
+    width: 300px;
+
+    padding: 20px;
+    margin-left: 40px;
+    border: 1px solid black;
+}
+
+#sidebar1 {
+    width: 300px;
+
+    padding: 20px;
+    margin-right: 40px;
+    border: 1px solid black;
+}
+
+#foot {
+    height: 100px;
+    padding: 20px;
+    border: 1px solid black;
+}
